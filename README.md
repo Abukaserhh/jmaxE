@@ -1,2 +1,2 @@
 # jmaxE
-Encrypting all files and tools | by jmax
+Encrypting all files and tools | by abu kaser
